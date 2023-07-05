@@ -17,10 +17,6 @@
 
   <p align="center">
     Group 7, Data Science 2023
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement">Dashboard</a>
     ·
     <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement">Presentation</a>
