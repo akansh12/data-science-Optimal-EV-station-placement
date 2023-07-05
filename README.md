@@ -77,7 +77,7 @@ In our work we focused on following task:
 1. Bahram Khan Baloch (7047281) 
 2. Saira Sohail Anwari (7047706)
 3. Umer Butt (7024124)
-4. Cicy Kuriakose Anges (7047703)
+4. Cicy Kuriakose Agnes (7047703)
 5. Akansh Maurya (7047939)
 
 <!-- ACKNOWLEDGMENTS -->
