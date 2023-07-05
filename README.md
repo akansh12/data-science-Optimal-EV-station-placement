@@ -17,6 +17,7 @@
 
   <p align="center">
     Group 7, Data Science 2023
+    <br />
     <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement">Dashboard</a>
     ·
     <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement">Presentation</a>
@@ -58,8 +59,13 @@
 
 [![Optimal EV charging station placement][product-screenshot]](https://github.com/akansh12/data-science-Optimal-EV-station-placement)
 
+The global transportation sector has been facing serious issues due to the use of internal combustion engines (ICEs), including their contribution to global warming. The exhaustion of fossil fuels and greenhouse gas emissions, particularly carbon dioxide, have raised concerns about climate change and global warming. To combat these problems, there is growing interest in transitioning from ICEs to cleaner and more sustainable alternatives, such as electric vehicles (EVs). EVs, running on electricity produced from renewable sources, offer the advantage of zero tailpipe emissions and can significantly reduce greenhouse gas emissions in the transportation industry. The transition to EVs has gained momentum, driven by declining battery prices and advancing charging methods. However, the widespread adoption of EVs requires an expansion of public charging infrastructure, necessitating the optimal placement of EV charging stations (EVCS).
 
-
+In our work we focused on following task:
+* Geographical and socio-economic variables can serve as indicators or proxies for understanding the demand for EV charging stations.
+* The project aims to create an exhaustive dataset considering socio-demographic features of Germany and solve the problem of optimal EVCS placement using classical ML algorithms.
+* The study evaluates different ML models and compares their performance to identify the most suitable approach.
+* The findings contribute to the understanding of optimal EVCS placement and facilitate automated decision-making in expanding EV charging infrastructure.
 
 
 
