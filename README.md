@@ -35,16 +35,15 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="#Data">Usage</a></li>
+    <li><a href="#data">Data</a></li>
     <li>
-      <a href="#Documentation">Getting Started</a>
+      <a href="#folder-structure">Folder structure</a>
     </li>
-    <li><a href="#Dashboard">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#Team Memebers">Contact</a></li>
+    <li><a href="#dashboard">Dashboard</a></li>
+    <li><a href="#team-memebers">Team Members</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#Cite">License</a></li>
+    <li><a href="#paper-and-citation">Paper and Citation</a></li>
+    <li><a href="#contact">Contact</a></li>
 
   </ol>
 </details>
