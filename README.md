@@ -59,6 +59,9 @@ In our work we focused on following task:
 * The study evaluates different ML models and compares their performance to identify the most suitable approach.
 * The findings contribute to the understanding of optimal EVCS placement and facilitate automated decision-making in expanding EV charging infrastructure.
 
+## Folder structure
+
+
 
 
 
@@ -72,7 +75,15 @@ In our work we focused on following task:
 4. Cicy Kuriakose Anges (7047703)
 5. Akansh Maurya (7047939)
 
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 
+<!-- Paper and Citation -->
+## Paper and Citation
+
+<!-- Contact -->
+## Contact
+If dashboard is not working, please create an [new issue](https://github.com/akansh12/data-science-Optimal-EV-station-placement/issues) or email at: akanshmaurya@gmail.com
 
 
 
