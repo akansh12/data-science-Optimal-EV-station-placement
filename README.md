@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href=https://github.com/akansh12/data-science-Optimal-EV-station-placement">
-    <img src="figures/saarland-log.png" alt="Logo" width="300" height="100">
+    <img src="figures/saarland-log.png" alt="Logo" width="300" height="110">
   </a>
 
   <h3 align="center">Spatial-Economic Analysis for Optimal EV Charging Station Placement.</h3>
