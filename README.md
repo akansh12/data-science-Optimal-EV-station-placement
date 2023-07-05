@@ -62,10 +62,10 @@ In our work we focused on following task:
 ## Folder structure
 
 ## Data and Usage
-<figure>
+<figure style="text-align:center">
   <img
   src="/figures/Data-collection.jpeg"
-  alt="pipeline.">
+  alt="pipeline">
   <figcaption>Data Collection Pipeline</figcaption>
 </figure>
 
@@ -91,6 +91,7 @@ We would like to thank Prof. Dr.-Ing. Wolfgang Maaß and tutors of Data Science 
 
 <!-- Paper and Citation -->
 ## Paper and Citation
+Please use the following citation for our data or methodology: 
 
 <!-- Contact -->
 ## Contact
