@@ -66,7 +66,7 @@ In our work we focused on following task:
   <img
   src="/figures/Data-collection.jpeg"
   alt="pipeline.">
-  <figcaption>Data Collection pipeline</figcaption>
+  <figcaption>Data Collection Pipeline</figcaption>
 </figure>
 
 ## Dashboard
@@ -82,6 +82,12 @@ In our work we focused on following task:
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+We would like to thank Prof. Dr.-Ing. Wolfgang Maaß and tutors of Data Science course 2023 at Saarland University for giving us the opportunity to work in such a industry relevant project. We would also like to acknowledge the following repositories/organization for making this project successful. 
+- OpenStreetmap: (https://www.openstreetmap.org)
+- Germna Federal Network Agency: (https://www.bundesnetzagentur.de)
+- Humanitarian Data Exchange: (https://data.humdata.org)
+- Data for Good at Meta: 
+- [Where Should We Be Placing EV Charging Stations? (Using QGIS and PulP)]()
 
 <!-- Paper and Citation -->
 ## Paper and Citation
