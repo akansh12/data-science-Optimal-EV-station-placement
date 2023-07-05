@@ -61,10 +61,15 @@ In our work we focused on following task:
 
 ## Folder structure
 
+## Data and Usage
+<figure>
+  <img
+  src="/figures/Data-collection.jpeg"
+  alt="pipeline.">
+  <figcaption>Data Collection pipeline</figcaption>
+</figure>
 
-
-
-
+## Dashboard
 
 
 
@@ -110,6 +115,7 @@ If dashboard is not working, please create an [new issue](https://github.com/aka
 [linkedin-url]: https://linkedin.com/in/othneildrew -->
 
 [product-screenshot]: figures/overview.gif
+[data-collect-pipeline]: figures/Data-collection.jpeg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
