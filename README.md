@@ -21,11 +21,13 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement">View Dashboard</a>
+    <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement">Dashboard</a>
     ·
     <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement">Presentation</a>
     ·
     <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement">Video</a>
+    .
+    <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement">Report</a>
   </p>
 </div>
 
@@ -56,9 +58,9 @@
 </details>
 
 
-<div align="center">
-  <img width="100%" alt="DINO illustration" src="figures/overview.gif">
-</div>
+## About The Project
+
+[![Optimal EV charging station placement][product-screenshot]](https://github.com/akansh12/data-science-Optimal-EV-station-placement)
 
 
 
@@ -105,7 +107,7 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew -->
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: figures/overview.gif
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
