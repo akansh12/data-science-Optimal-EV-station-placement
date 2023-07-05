@@ -30,7 +30,8 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <title>Table of Contents</title>
+  <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
@@ -47,6 +48,8 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#Cite">License</a></li>
+
+  </ol>
 </details>
 
 
