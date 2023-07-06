@@ -69,11 +69,11 @@ In our work we focused on following task:
   <figcaption>Data Collection Pipeline</figcaption>
 </figure>
 
-## How replicate results
+### How replicate results
 1. set path_root_dir in notebook/modeling.ipynb
 2. results will be created under result directory
 
-## How to create dataset from raw data
+### How to create dataset from raw data
 
 1. Download data from [here](https://drive.google.com/drive/folders/1j2lwYuwfH4WuZ8j0VPc17SbCqO11yYYJ?usp=sharing)
 2. Set path_to_downlaoded_data in notebooks/make_data_set.ipynb
