@@ -60,6 +60,8 @@ In our work we focused on following task:
 * The findings contribute to the understanding of optimal EVCS placement and facilitate automated decision-making in expanding EV charging infrastructure.
 
 ## Folder structure
+- All the code can be found under notebook/
+- The final dataset can be found under data/processed/all_city_data_with_pop.csv
 
 ## Data and Usage
 <figure style="text-align:center">
