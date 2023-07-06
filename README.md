@@ -69,6 +69,19 @@ In our work we focused on following task:
   <figcaption>Data Collection Pipeline</figcaption>
 </figure>
 
+## How replicate results
+1. set path_root_dir in notebook/modeling.ipynb
+2. results will be created under result directory
+
+## How to create dataset from raw data
+
+1. Download data from [here](https://drive.google.com/drive/folders/1j2lwYuwfH4WuZ8j0VPc17SbCqO11yYYJ?usp=sharing)
+2. Set path_to_downlaoded_data in notebooks/make_data_set.ipynb
+3. run the notebook and data will be created
+
+
+
+
 ## Dashboard
 The dashboard is created with Streamlit in Python, which is an open-source framework designed to create interactive web apps. Our app is hosted on Hugging Face. The dashboard shows a map of Saarbrücken, Germany, with points-of-interest, existing EV charging stations, residential, and commercial areas marked on the map, along with the optimal location of new EV charging stations predicted by our model. The app gives the option to view different features marked on the map that were collected and used to train our model. Final results and EDA plots, for example, a pie chart of the number of different types of infrastructure in Saarbrücken, are also displayed on the dashboard to help visualize the data and evaluate overall model performance.
 Dashboard code can be found under: [Dashboard](https://github.com/akansh12/data-science-Optimal-EV-station-placement/tree/main/Dashboard)
