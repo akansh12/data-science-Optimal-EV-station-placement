@@ -62,6 +62,35 @@ In our work we focused on following task:
 ## Folder structure
 - All the code can be found under notebook/
 - The final dataset can be found under data/processed/all_city_data_with_pop.csv
+├── Dashboard
+│   ├── app.py
+│   ├── Data
+│   ├── MyMap.html
+│   ├── README.md
+│   └── requirements.txt
+├── data
+│   └── processed
+│       ├── all_city_data_with_pop.csv
+│       ├── berlin_data_detailed.csv
+│       ├── Frankfurt_data_detailed.csv
+│       ├── Kaiserslautern_data_detailed.csv
+│       ├── karlsruhe_data_detailed.csv
+│       ├── Mainz_data_detailed.csv
+│       └── Saarbrücken_data_detailed.csv
+│   └── raw
+├── figures
+│   ├── XX.png
+├── notebooks
+│   ├── CITY_NAME.ipynb
+│   ├── cache
+│   ├── Data_Science_Mini_project_EDA.ipynb
+│   ├── EDA.ipynb
+│   ├── make_data_set.ipynb
+│   ├── map_images
+│   │   ├── xx.jpg
+│   ├── modeling.ipynb
+│   ├── plots.ipynb
+└── README.md
 
 ## Data and Usage
 <figure style="text-align:center">
@@ -168,3 +197,8 @@ If dashboard is not working, please create an [new issue](https://github.com/aka
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
+
+
+
+
