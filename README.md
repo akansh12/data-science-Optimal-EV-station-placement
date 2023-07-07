@@ -82,15 +82,20 @@ In our work we focused on following task:
 3. run the notebook and data will be created
 
 
-
-
 ## Dashboard
 The dashboard is created with Streamlit in Python, which is an open-source framework designed to create interactive web apps. Our app is hosted on Hugging Face. The dashboard shows a map of Saarbrücken, Germany, with points-of-interest, existing EV charging stations, residential, and commercial areas marked on the map, along with the optimal location of new EV charging stations predicted by our model. The app gives the option to view different features marked on the map that were collected and used to train our model. Final results and EDA plots, for example, a pie chart of the number of different types of infrastructure in Saarbrücken, are also displayed on the dashboard to help visualize the data and evaluate overall model performance.
-Dashboard code can be found under: [Dashboard](https://github.com/akansh12/data-science-Optimal-EV-station-placement/tree/main/Dashboard)
+
 
 [Link to the app hosted on hugging-face](https://huggingface.co/spaces/Saira20/Optimal-EV-charging-stations)
 
+Dashboard code can be found under: [Dashboard](https://github.com/akansh12/data-science-Optimal-EV-station-placement/tree/main/Dashboard)
 
+## Roadmap
+
+- [x] Collect and gather data for the task
+- [x] Performed EDA [EDA_Notebook_1](https://github.com/akansh12/data-science-Optimal-EV-station-placement/blob/main/notebooks/Data_Science_Mini_project_EDA.ipynb) [EDA Notebook_2](https://github.com/akansh12/data-science-Optimal-EV-station-placement/blob/main/notebooks/EDA.ipynb)
+- [x] Developed Machine Learning Model 
+- [x] Deployment of final prototype to [Dashboard](https://huggingface.co/spaces/Saira20/Optimal-EV-charging-stations) for the end user. 
 
 ## Team Members
 1. Bahram Khan Baloch (7047281) 
