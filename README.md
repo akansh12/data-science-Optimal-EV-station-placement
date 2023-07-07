@@ -24,7 +24,7 @@
     ·
     <a href="https://youtu.be/kW-kBFeq9E0">Video</a>
     .
-    <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement">Report</a>
+    <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement/blob/main/Report/Project_Report.pdf">Report</a>
   </p>
 </div>
 
