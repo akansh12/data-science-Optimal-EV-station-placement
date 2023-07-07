@@ -62,6 +62,7 @@ In our work we focused on following task:
 ## Folder structure
 - All the code can be found under notebook/
 - The final dataset can be found under data/processed/all_city_data_with_pop.csv
+```
 ├── Dashboard
 │   ├── app.py
 │   ├── Data
@@ -91,6 +92,7 @@ In our work we focused on following task:
 │   ├── modeling.ipynb
 │   ├── plots.ipynb
 └── README.md
+```
 
 ## Data and Usage
 <figure style="text-align:center">
