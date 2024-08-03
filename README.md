@@ -152,6 +152,17 @@ We would like to thank Prof. Dr.-Ing. Wolfgang Maaß and tutors of Data Science 
 <!-- Paper and Citation -->
 ## Paper and Citation
 Please use the following citation for our data or methodology: 
+@INPROCEEDINGS{10607132,
+  author={Maurya, Akansh and Agnes, Cicy Kuriakose and Baloch, Bahram Khan and Anwari, Saira Sohail and Butt, Umer},
+  booktitle={2024 International Conference on Social and Sustainable Innovations in Technology and Engineering (SASI-ITE)}, 
+  title={Spatial-Economic Analysis for Optimal Electric Vehicle Charging Station Placement}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={339-344},
+  keywords={Technological innovation;Local government;Pipelines;Charging stations;Data collection;Electric vehicle charging;Data models;Machine Learning;Open street map;Germany;EV charging station placement},
+  doi={10.1109/SASI-ITE58663.2024.00071}}
+
 
 <!-- Contact -->
 ## Contact
